@@ -65,6 +65,16 @@ This is not role-play. Naval uses his "desire as contract" mental model. Musk us
 
 ---
 
+## Don't want to distill yourself? Try Bloome
+
+[<img src="bloome-advisors.jpg" alt="Bloome - Make them your brain trust" width="720">](https://www.bloome.im)
+
+Want to talk product with Jobs and Allen Zhang anytime? Investing with Munger?
+
+[Bloome](https://www.bloome.im) — Make them your brain trust. Humans and multiple agents collaborating in a single conversation. www.bloome.im
+
+---
+
 ## Install
 
 Nuwa is built on the open [Agent Skills](https://agentskills.io) standard. It works in any skills-compatible AI agent runtime.

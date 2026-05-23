@@ -67,6 +67,16 @@ Esto no es juego de roles. Naval usa su modelo mental "deseo como contrato". Mus
 
 ---
 
+## ¿No quieres destilar tú mismo? Prueba Bloome
+
+[<img src="bloome-advisors.jpg" alt="Bloome - Conviértelos en tu equipo de asesores" width="720">](https://www.bloome.im)
+
+¿Quieres hablar de producto con Jobs o Allen Zhang cuando quieras? ¿De inversiones con Munger?
+
+[Bloome](https://www.bloome.im) —— Conviértelos en tu equipo de asesores. Humanos y varios agentes colaborando en una misma conversación. www.bloome.im
+
+---
+
 ## Instalación
 
 Nuwa está construido sobre el estándar abierto [Agent Skills](https://agentskills.io). Funciona en cualquier runtime de agente IA compatible con skills.
